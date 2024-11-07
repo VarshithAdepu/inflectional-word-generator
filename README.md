@@ -20,4 +20,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/inflectional-word-generator.git
 
+cd inflectional-word-generator
 
+python find_paradigm.py 
