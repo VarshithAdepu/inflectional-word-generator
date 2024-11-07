@@ -1,0 +1,3 @@
+1. pip install wxconv
+2. What ever the words you want to check update in words_with_categories dict which is in find_paradigms.py 
+3. run find_paradigm.py file
